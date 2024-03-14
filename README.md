@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/3iq77lisykn9pkqm?svg=true)](https://ci.appveyor.com/project/Nikolay0110/environment)
+
 # Домашнее задание к занятию "1. Рабочее окружение"
 
 **Важно**: все задачи к данной лекции можно выполнить в виде одного репозитория (т.е. допускается не делать отдельные репозитории на каждую задачу).
