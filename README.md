@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/3iq77lisykn9pkqm?svg=true)](https://ci.appveyor.com/project/Nikolay0110/environment)
+[![Build status](https://ci.appveyor.com/api/projects/status/3iq77lisykn9pkqm/branch/main?svg=true)](https://ci.appveyor.com/project/Nikolay0110/environment/branch/main)
 
 # Домашнее задание к занятию "1. Рабочее окружение"
 
