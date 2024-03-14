@@ -24,7 +24,7 @@
    ![alt text](./github-setup.png)
 5. В файле `REAME.md` в строке:
 ```md
-[![CI](https://github.com/Nikolay0110/Environment/actions/workflows/web.yml/badge.svg)]
+![CI](https://github.com/Nikolay0110/Environment/actions/workflows/web.yml/badge.svg)
 ```
 Заменить `<OWNER>` на ваш ник на github;
 
